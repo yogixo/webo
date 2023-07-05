@@ -1,3 +1,1 @@
-const myHeading = document.querySelector("h1");
-myHeading.textContent = "Hello world!";
-
+alert("I'm Javascript");
